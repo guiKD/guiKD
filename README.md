@@ -9,7 +9,6 @@ Bem vindo ao meu perfil GitHub 👋
 
 <div style="display: inline_block"> 
 <br>
-<br>
 > 🌱
 <br>    
 <br>  
