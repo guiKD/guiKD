@@ -24,6 +24,6 @@ Welcome to my GitHub profile 👋
 
 <div align="center">
 <a href="https://github.com/guiKD"/> 
-![image](https://github.com/guiKD/guiKD/assets/125158583/129034bb-be39-43cb-9360-98eea1252412)
+<div class="tenor-gif-embed" data-postid="10659827031922541979" data-share-method="host" data-aspect-ratio="1.25" data-width="100%"><a href="https://tenor.com/view/kzary-gif-10659827031922541979">Kzary Sticker</a>from <a href="https://tenor.com/search/kzary-stickers">Kzary Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 <img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guiKD&layout=compact&langs_count=7&theme=dracula"/> 
 </div>
