@@ -1,11 +1,11 @@
-Olá, me chamo Guilherme ! 
-Bem vindo ao meu perfil GitHub 👋
+Olá, me chamo Guilherme! 
+Bem-vindo ao meu perfil no GitHub 👋
 
-> 🔭 Estudante da FIAP em Sistemas de informação 1º ano
+• 🔭 SISTEMAS DE INFORMAÇÃO (FIAP) 
 
-> 🌱 Aprendendo Python com foco em Data Science / JavaScript em desenvolvimento web
+• 🌱 Data Science // Segurança // Web development
 
-> ✅ HTML, CSS, BOOTSTRAP
+• 🖥️ HTML // CSS // Bootstrap // JavaScript // Aprendendo Python (com foco em Data Science) 
 
 <div style="display: inline_block"> 
 <br>
