@@ -1,5 +1,5 @@
 Olá, me chamo Guilherme! 
-Bem-vindo ao meu perfil no GitHub 👋
+Bem-vindo ao meu perfil no GitHub 👋 //
 Hello, my name is Guilherme!
 Welcome to my GitHub profile 👋
 
