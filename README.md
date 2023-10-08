@@ -24,6 +24,6 @@ Welcome to my GitHub profile 👋
 
 <div align="center">
 <a href="https://github.com/guiKD"/> 
-https://tenor.com/pt-PT/view/kzary-gif-10659827031922541979
+<iframe src="https://giphy.com/embed/ispEc1253326c" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/fullmetal-alchemist-edward-elric-ispEc1253326c">via GIPHY</a></p>
 <img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guiKD&layout=compact&langs_count=7&theme=dracula"/> 
 </div>
