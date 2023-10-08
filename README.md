@@ -3,11 +3,11 @@ Bem-vindo ao meu perfil no GitHub 👋 //
 Hello, my name is Guilherme!
 Welcome to my GitHub profile 👋
 
-• 🔭 SISTEMAS DE INFORMAÇÃO (FIAP) 
+• 🔭 SISTEMAS DE INFORMAÇÃO (FIAP) // 🔭 INFORMATION SYSTEMS (FIAP)
 
-• 🌱 Data Science // Segurança // Web development
+• 🌱 Data Science // Cybersecurity // Web development
 
-• 🖥️ HTML // CSS // Bootstrap // JavaScript // Aprendendo Python (com foco em Data Science e estatística) 
+• 🖥️ HTML // CSS // Bootstrap // JavaScript // Learning Python focusing on Data Science and statistics
 
 <div style="display: inline_block"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" style="height: 50px;" />
@@ -16,8 +16,7 @@ Welcome to my GitHub profile 👋
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" style="height: 50px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" style="height: 50px;" />
 </div>
-
-          
+    
 <hr>
 
 <div align="center">
