@@ -25,6 +25,6 @@ Welcome to my GitHub profile 👋
 <div align="center">
 <a href="https://github.com/guiKD"/> 
 <img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guiKD&layout=compact&langs_count=7&theme=dracula"/> 
-<a href="https://tenor.com/pt-PT/view/fmab-full-metal-alchemist-brotherhood-coat-off-ed-edward-elric-gif-17554054">
+<a href="https://tenor.com/pt-PT/view/fmab-full-metal-alchemist-brotherhood-coat-off-ed-edward-elric-gif-17554054"/>
 </div>
 
