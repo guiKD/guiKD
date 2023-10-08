@@ -5,7 +5,7 @@ Bem-vindo ao meu perfil no GitHub 👋
 
 • 🌱 Data Science // Segurança // Web development
 
-• 🖥️ HTML // CSS // Bootstrap // JavaScript // Aprendendo Python (com foco em Data Science) 
+• 🖥️ HTML // CSS // Bootstrap // JavaScript // Aprendendo Python (com foco em Data Science e estatística) 
 
 <div style="display: inline_block"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" style="height: 50px;" />
