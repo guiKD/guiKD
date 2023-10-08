@@ -25,7 +25,7 @@ Welcome to my GitHub profile 👋
 <div align="center">
 <a href="https://github.com/guiKD"/> 
 <img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guiKD&layout=compact&langs_count=7&theme=dracula"/> 
-<img loading="lazy" height="150em" src="![image](https://github.com/guiKD/guiKD/assets/125158583/2728dfb4-3f3e-45dd-8ecc-69ce425a04ca)"/> 
+<img loading="lazy" height="150em" src="https://animamlp.tumblr.com/post/80877067987/sempre-existem-coisas-mais-importantes-que-sonhos"/> 
 
 </div>
 
