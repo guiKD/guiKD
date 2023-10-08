@@ -25,5 +25,5 @@ Welcome to my GitHub profile 👋
 <div align="center">
 <a href="https://github.com/guiKD"/> 
 <img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guiKD&layout=compact&langs_count=7&theme=dracula"/> 
-![image](https://github.com/guiKD/guiKD/assets/125158583/d1953a4c-c6d9-4a1b-a101-16029d5948f2)
 </div>
+![image](https://github.com/guiKD/guiKD/assets/125158583/b949cf1d-9a5f-480f-8774-0ed833d48d8d)
