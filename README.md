@@ -25,7 +25,7 @@ Welcome to my GitHub profile 👋
 <div align="center">
 <a href="https://github.com/guiKD"/> 
 <img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guiKD&layout=compact&langs_count=7&theme=dracula"/> 
-<img loading="lazy" height="150em" src="https://images6.fanpop.com/image/photos/32800000/Gifs-full-metal-alchemist-32853689-500-281.gif"/> 
+<img loading="lazy" height="150em" src="![image](https://github.com/guiKD/guiKD/assets/125158583/6dc38b9e-8bf5-4776-bfa0-a1b831ddc4fc)"/> 
 
 </div>
 
