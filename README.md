@@ -1,5 +1,7 @@
 Olá, me chamo Guilherme! 
 Bem-vindo ao meu perfil no GitHub 👋
+Hello, my name is Guilherme!
+Welcome to my GitHub profile 👋
 
 • 🔭 SISTEMAS DE INFORMAÇÃO (FIAP) 
 
