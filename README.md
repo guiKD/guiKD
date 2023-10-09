@@ -10,7 +10,6 @@ Welcome to my GitHub profile 👋
 • 🖥️ HTML // CSS // Bootstrap // JavaScript // Learning Python focusing on Data Science and statistics
 
 <br> 
-<br> 
 
 <div style="display: inline_block"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" style="height: 30px;" />
