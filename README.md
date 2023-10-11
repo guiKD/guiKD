@@ -22,6 +22,6 @@ Welcome to my GitHub profile 👋
 
 <div style="display: flex; align-items: center;">
   <a href="https://github.com/guiKD"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guiKD&layout=compact&langs_count=7&theme=radical" width="400" style="margin-right: 20px;"/> 
-  <img src="https://64.media.tumblr.com/14f536e4a7add6953f2f7ea0d8a91fda/tumblr_n33lndFgJp1rnkzyto1_500.gifv" width="360" style="margin-left: 20px;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guiKD&layout=compact&langs_count=7&theme=radical" width="400"/> 
+  <img src="https://64.media.tumblr.com/14f536e4a7add6953f2f7ea0d8a91fda/tumblr_n33lndFgJp1rnkzyto1_500.gifv" width="410"/>
 </div>
