@@ -23,7 +23,7 @@ Welcome to my GitHub profile 👋
 <div style="display: flex; align-items: center;">
 <a href="https://github.com/guiKD"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guiKD&layout=compact&langs_count=7&theme=radical" width="400"/> 
-<img src="https://tenor.com/pt-PT/view/anime-mind-blow-mind-blown-gif-11942940" width="400"/>
+<img src="https://gifs.alphacoders.com/gifs/view/15011" width="400"/>
 </div>
 
 
