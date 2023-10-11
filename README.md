@@ -23,7 +23,7 @@ Welcome to my GitHub profile 👋
 <div style="display: flex; align-items: center;">
 <a href="https://github.com/guiKD"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guiKD&layout=compact&langs_count=7&theme=radical" width="400"/> 
-<img src="" width="400"/>
+<img src="https://pin.it/7IFF7aW" width="400"/>
 </div>
 
 
