@@ -23,5 +23,5 @@ Welcome to my GitHub profile 👋
 <div style="display: flex; align-items: center;">
 <a href="https://github.com/guiKD"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guiKD&layout=compact&langs_count=7&theme=radical" width="400"/> 
-<img src="![image](https://github.com/guiKD/guiKD/assets/125158583/45db3eb3-01ab-4f6e-9bf2-eb58f4e649ed)" width="400"/>
+<img src="https://www.tumblr.com/search/zero%20two%20gif?src=typed_query" width="400"/>
 </div>
