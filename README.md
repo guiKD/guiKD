@@ -34,7 +34,10 @@ Welcome to my GitHub profile 👋
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
     </a><br>
     guilhermekorusdaoud@gmail.com
-  </div>
+  </div> 
+
+  <br>
+  <br>
 
   <div style="display: inline-block; text-align: center; margin: 10px;">
     <a href="">
