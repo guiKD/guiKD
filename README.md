@@ -28,18 +28,15 @@ Welcome to my GitHub profile 👋
 
 <hr>
 
-<div align="center">
-  <div style="display: inline-block; text-align: center; margin: 10px;">
+<div align="center" style="display: flex; justify-content: center;">
+  <div style="text-align: center; margin: 10px;">
     <a href="">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
     </a><br>
     guilhermekorusdaoud@gmail.com
   </div> 
 
-  <br>
-  <br>
-
-  <div style="display: inline-block; text-align: center; margin: 10px;">
+  <div style="text-align: center; margin: 10px;">
     <a href="">
       <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
     </a><br>
