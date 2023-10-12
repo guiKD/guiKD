@@ -24,5 +24,5 @@ Welcome to my GitHub profile 👋
   <a href="https://github.com/guiKD"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guiKD&layout=compact&langs_count=7&theme=radical" width="400"/> 
   <img src="https://64.media.tumblr.com/14f536e4a7add6953f2f7ea0d8a91fda/tumblr_n33lndFgJp1rnkzyto1_500.gifv" width="435"/>
-  <img src="https://www.icegif.com/wp-content/uploads/2023/01/icegif-1556.gif" width="700"/>
+  <img src="https://media.tenor.com/8nt2OOrR9_gAAAAM/anime-girl.gif" width="700"/>
 </div>
