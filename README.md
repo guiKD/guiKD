@@ -28,6 +28,8 @@ Welcome to my GitHub profile 👋
 
 <hr>
 
+<h1 align="center"> Contato </h1>
+
 <div align="center">
   <div style="display: inline-block; text-align: center; margin: 10px; float: left;">
     <a href="#">
