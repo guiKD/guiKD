@@ -28,6 +28,8 @@ Welcome to my GitHub profile 👋
 
 <hr>
 
+  <img src="https://images.alphacoders.com/132/1328866.png" width="400"/>
+
 <div align="center">
   <div style="display: inline-block; text-align: center; margin: 10px; float: left;">
     <a href="#">
