@@ -26,6 +26,10 @@ Welcome to my GitHub profile 👋
   <img src="https://64.media.tumblr.com/14f536e4a7add6953f2f7ea0d8a91fda/tumblr_n33lndFgJp1rnkzyto1_500.gifv" width="440"/>
 </div>
 
+<hr>
+
+<br>
+
 Contato:
 
 <div align="center> 
