@@ -25,3 +25,9 @@ Welcome to my GitHub profile 👋
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guiKD&layout=compact&langs_count=7&theme=radical" width="400"/> 
   <img src="https://64.media.tumblr.com/14f536e4a7add6953f2f7ea0d8a91fda/tumblr_n33lndFgJp1rnkzyto1_500.gifv" width="440"/>
 </div>
+
+Contato:
+
+<div align="center> 
+  
+[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](guilhermekorusdaoud@gmail.com)
