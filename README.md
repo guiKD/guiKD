@@ -36,6 +36,8 @@ Welcome to my GitHub profile 👋
     guilhermekorusdaoud@gmail.com
   </div> 
 
+  <br>
+
   <div style="text-align: center; margin: 10px;">
     <a href="">
       <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
