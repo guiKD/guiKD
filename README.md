@@ -20,6 +20,8 @@ Welcome to my GitHub profile 👋
     
 <hr>
 
+<h1 align="center"> Informações github </h1>
+
 <div style="display: flex; align-items: center;">
   <a href="https://github.com/guiKD"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guiKD&layout=compact&langs_count=7&theme=radical" width="400"/> 
