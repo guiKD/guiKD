@@ -28,7 +28,6 @@ Welcome to my GitHub profile 👋
 
 <hr>
 
-<br>
 
 Contato:
 
