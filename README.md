@@ -35,19 +35,15 @@ Welcome to my GitHub profile 👋
 <h1 align="center"> Contato </h1>
 
 <div align="center">
-  <div style="display: inline-block; text-align: center; margin: 10px; float: left;">
-    <a href="#">
+  <div style="display: inline-block; text-align: center; margin: 10px;">
+    <a href="mailto:guilhermekorusdaoud@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-    </a><br>
-    guilhermekorusdaoud@gmail.com
-  </div> 
+    </a>
+  </div>
 
-<br>
-
-  <div style="display: inline-block; text-align: center; margin: 10px; float: right;">
-    <a href="#">
+  <div style="display: inline-block; text-align: center; margin: 10px;">
+    <a href="https://discordapp.com/users/guikkd28">
       <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
-    </a><br>
-    guikkd28
+    </a>
   </div>
 </div>
