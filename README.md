@@ -34,7 +34,7 @@ Welcome to my GitHub profile 👋
 
 <h1 align="center"> Contato </h1>
 
-<div align="center" style="display: grid; grid-template-columns: 1fr 1fr; grid-gap: 10px;">
+<div style="display: flex; align-items: center;">
   <div style="text-align: center;">
     <a href="mailto:guilhermekorusdaoud@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
