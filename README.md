@@ -1,4 +1,4 @@
-<h1 align="center"> Introdução </h1>
+<h1 align="center"> Introdução / About me </h1>
 
 Olá, me chamo Guilherme! 
 Bem-vindo ao meu perfil no GitHub 👋 //
@@ -22,7 +22,7 @@ Welcome to my GitHub profile 👋
     
 <hr>
 
-<h1 align="center"> Informações github </h1>
+<h1 align="center"> Informações / Statistics GitHub </h1>
 
 <div style="display: flex; align-items: center;">
   <a href="https://github.com/guiKD"/>
