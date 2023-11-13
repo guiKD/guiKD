@@ -9,7 +9,7 @@ Welcome to my GitHub profile 👋
 
 • 🌱 Data Science // Cybersecurity // Web development
 
-• 🖥️ HTML // CSS // Bootstrap // JavaScript // Learning Python focusing on Data Science and statistics
+• 🖥️ HTML // CSS // Bootstrap // JavaScript // JAVA // Learning Python focusing on Data Science and statistics
 
 <br> 
 
@@ -18,6 +18,8 @@ Welcome to my GitHub profile 👋
   <img align="center" alt="Gui-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Gui-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Gui-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Gui-JAVA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
+          
 </div>
     
 <hr>
