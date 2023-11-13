@@ -9,7 +9,7 @@ Welcome to my GitHub profile 👋
 
 • 🌱 Data Science // Cybersecurity // Web development
 
-• 🖥️ HTML // CSS // Bootstrap // JavaScript // JAVA // Learning Python focusing on Data Science and statistics
+• 🖥️ HTML // CSS // Bootstrap // JavaScript // JAVA 
 
 <br> 
 
