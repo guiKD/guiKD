@@ -27,7 +27,7 @@ Olá, me chamo Guilherme! Bem-vindo ao meu perfil no GitHub 👋
 <div style="display: flex; align-items: center;">
   <a href="https://github.com/guiKD"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guiKD&layout=compact&langs_count=7&theme=radical" width="400"/> 
-  <img src="https://64.media.tumblr.com/5654e6eeb005d9d5a3ca17aff2ad07e9/dfe0da0c7c485394-72/s400x600/c95b82e76325bb9b43f76372a4f0167aa4cc890c.gifv" width="430"/>
+  <img src="https://64.media.tumblr.com/378ccd00882d4f820cbeaba695158127/7726fcb0a7fca3c3-82/s1280x1920/ea3debb5c7a7c0f1dafb0b2294eceb12245edec2.gifv" width="430"/>
 </div>
 
 <hr>
