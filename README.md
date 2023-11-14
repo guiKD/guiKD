@@ -1,4 +1,4 @@
-<h3 align="center"> About me </h3>
+<h2 align="center"> About me </h2>
 
 <br> 
 
@@ -22,7 +22,7 @@ Olá, me chamo Guilherme! Bem-vindo ao meu perfil no GitHub 👋
     
 <hr>
 
-<h3 align="center"> Most used programming languages </h3>
+<h2 align="center"> Most used programming languages </h2>
 
 <div style="display: flex; align-items: center;">
   <a href="https://github.com/guiKD"/>
