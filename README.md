@@ -22,8 +22,6 @@ Olá, me chamo Guilherme! Bem-vindo ao meu perfil no GitHub 👋
     
 <hr>
 
-<h2 align="center"> Most used programming languages </h2>
-
 <div style="display: flex; align-items: center;">
   <a href="https://github.com/guiKD"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guiKD&layout=compact&langs_count=7&theme=radical" width="400"/> 
