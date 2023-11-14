@@ -1,6 +1,6 @@
 <h3 align="center"> Introdução / About me </h3>
 
- <h4 Olá, me chamo Guilherme! Bem-vindo ao meu perfil no GitHub 👋 </h4>
+Olá, me chamo Guilherme! Bem-vindo ao meu perfil no GitHub 👋 
 
 • 🔭 SISTEMAS DE INFORMAÇÃO (FIAP) // 🔭 INFORMATION SYSTEMS (FIAP)
 
