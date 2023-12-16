@@ -2,11 +2,12 @@
 
 <br> 
 
-Olá, me chamo Guilherme! Bem-vindo ao meu perfil no GitHub 👋 
+Olá, me chamo Guilherme! Bem-vindo ao meu perfil no GitHub 👋
+Hello, my name is Guilherme! Welcome to my GitHub profile 👋
 
-• 🔭 SISTEMAS DE INFORMAÇÃO (FIAP)
+• 🔭 Eu estou no 2º ano de Sistemas de Informação na FIAP 🔭 I'm in the 2nd year of Information Systems at FIAP
 
-• 🌱 Data Science // Cybersecurity // Web development
+• 🌱 Data Science // Cybersecurity // Web development 
  
 • 🖥️ HTML // CSS // Bootstrap // JavaScript // JAVA 
 
