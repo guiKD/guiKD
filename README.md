@@ -2,10 +2,9 @@
 
 <br> 
 
-Olá, me chamo Guilherme! Bem-vindo ao meu perfil no GitHub 👋
+Olá, me chamo Guilherme! Bem-vindo ao meu perfil no GitHub 👋 // Hello, my name is Guilherme! Welcome to my GitHub profile 👋
+
 <br> 
-<br>
-Hello, my name is Guilherme! Welcome to my GitHub profile 👋
 
 • 🔭 Eu estou no 2º ano de Sistemas de Informação na FIAP // 🔭 I'm in the 2nd year of Information Systems at FIAP
 
