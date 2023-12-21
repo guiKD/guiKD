@@ -10,7 +10,7 @@ Olá, me chamo Guilherme! Bem-vindo ao meu perfil no GitHub 👋 | Hello, my nam
 
 • 🌱 Data Science | Cybersecurity | Web development 
  
-• 🖥️ HTML | CSS | Bootstrap | JavaScript | JAVA 
+• 🖥️ HTML | CSS | Bootstrap | JavaScript | Python | JAVA 
 
 <br> 
 
