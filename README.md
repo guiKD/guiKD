@@ -8,7 +8,7 @@ Olá, me chamo Guilherme! Bem-vindo ao meu perfil no GitHub 👋 | Hello, my nam
 
 • 🔭 Eu estou no 2º ano de Sistemas de Informação na FIAP | 🔭 I'm in the 2nd year of Information Systems at FIAP
 
-• 🌱 Software engineer | Cybersecurity | Web development 
+• 🌱 Data Science | Software engineer | Cybersecurity | Web development 
  
 • 🖥️ HTML | CSS | Bootstrap | JavaScript | JAVA 
 
