@@ -2,19 +2,12 @@
 
 <br> 
 
-Olá, me chamo Guilherme! Bem-vindo ao meu perfil no GitHub 👋 | 
-<br> 
-Hello, my name is Guilherme! Welcome to my GitHub profile 👋
+Olá, me chamo Guilherme! Bem-vindo ao meu perfil no GitHub 👋, estudante no 2º ano de Sistemas de Informação na FIAP, estou empenhado em desenvolver uma carreira sólida na área de Tecnologia da Informação, com foco específico em Ciência de Dados, Engenharia de Software, Cibersegurança e Desenvolvimento web. Até o momento, adquiri habilidades práticas em programação, me destacando em HTML, CSS, Bootstrap, JavaScript, JAVA, Python.
 
 <br> 
-
-• 🔭 Eu estou no 2º ano de Sistemas de Informação na FIAP |
 <br> 
-• 🔭 I'm in the 2nd year of Information Systems at FIAP
 
-• 🌱 Data Science | Software engineer | Cybersecurity | Web development 
- 
-• 🖥️ HTML | CSS | Bootstrap | JavaScript | JAVA | Python
+Hello, my name is Guilherme! Welcome to my profile on GitHub 👋, student in the 2nd year of Information Systems at FIAP, I am dedicated to developing a solid career in the area of Information Technology, with a specific focus on Data Science, Software Engineering, Cybersecurity and Development web. So far, I have acquired practical skills in programming, excelling in HTML, CSS, Bootstrap, JavaScript, JAVA, Python.
 
 <br> 
 
