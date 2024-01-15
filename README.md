@@ -10,7 +10,7 @@ Hello, my name is Guilherme! Welcome to my GitHub profile 👋
 
 • 🔭 Eu estou no 2º ano de Sistemas de Informação na FIAP |
 <br> 
-🔭 I'm in the 2nd year of Information Systems at FIAP
+• 🔭 I'm in the 2nd year of Information Systems at FIAP
 
 • 🌱 Data Science | Software engineer | Cybersecurity | Web development 
  
