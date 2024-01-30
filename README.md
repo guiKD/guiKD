@@ -24,7 +24,7 @@ Hello, my name is Guilherme! Welcome to my profile on GitHub 👋, student in th
 <div style="display: flex; align-items: center;">
   <a href="https://github.com/guiKD"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guiKD&layout=compact&langs_count=7&theme=radical" width="400"/> 
-  <img src="https://tenor.com/pt-PT/view/wink-anime-cute-peace-peace-sign-gif-13040107026014624550" width="410"/>
+  <img src="https://64.media.tumblr.com/1280f48a69445deb6f6390a9b9fc9718/21ea0ff92fc1df0c-a6/s540x810/73ef671f7443a39c02e857ee202fc8bad893db53.gif" width="410"/>
 </div>
 
 <hr>
