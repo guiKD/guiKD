@@ -24,7 +24,7 @@ Hello, my name is Guilherme! Welcome to my profile on GitHub 👋, student in th
 <div style="display: flex; align-items: center;">
   <a href="https://github.com/guiKD"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guiKD&layout=compact&langs_count=7&theme=radical" width="400"/> 
-  <img src="https://giphy.com/embed/g0OT8JBFRc8SY" width="442"/>
+  <img src="https://www.icegif.com/wp-content/uploads/2022/11/icegif-473.gif" width="442"/>
 </div>
 
 <hr>
