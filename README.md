@@ -2,11 +2,11 @@
 
 <br> 
 
-Olá, me chamo Guilherme! Bem-vindo ao meu perfil no GitHub 👋, estudante no 2º ano de Sistemas de Informação na FIAP, estou empenhado em desenvolver uma carreira sólida na área de Tecnologia da Informação. Até o momento, adquiri habilidades práticas em programação, me destacando em HTML, CSS, Bootstrap, JavaScript, JAVA, Python.
+<p>Olá, me chamo Guilherme! Bem-vindo ao meu perfil no GitHub 👋, estudante no 2º ano de Sistemas de Informação na FIAP, estou empenhado em desenvolver uma carreira sólida na área de Tecnologia da Informação. Até o momento, adquiri habilidades práticas em programação, me destacando em HTML, CSS, Bootstrap, JavaScript, JAVA, Python.</p>
 
 <br>
 
-Hello, my name is Guilherme! Welcome to my profile on GitHub 👋, student in the 2nd year of Information Systems at FIAP, I am dedicated to developing a solid career in the area of Information Technology. So far, I have acquired practical skills in programming, excelling in HTML, CSS, Bootstrap, JavaScript, JAVA, Python.
+<p>Hello, my name is Guilherme! Welcome to my profile on GitHub 👋, student in the 2nd year of Information Systems at FIAP, I am dedicated to developing a solid career in the area of Information Technology. So far, I have acquired practical skills in programming, excelling in HTML, CSS, Bootstrap, JavaScript, JAVA, Python.</p>
 
 <br> 
 
