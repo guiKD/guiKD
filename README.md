@@ -23,7 +23,6 @@ Hello, my name is Guilherme! Welcome to my profile on GitHub 👋, student in th
 
 <div style="display: flex; align-items: center;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guiKD&layout=compact&langs_count=7&theme=radical" width="400"/> 
-  <img src="https://64.media.tumblr.com/5a7f5dacbbd727dab26c297e4e9a5d7e/c27642b7abf55757-3f/s500x750/51c2764e11008ace9b9767ed4f7d15c28f2c838a.gifv" width="430" height="185"/>
 </div>
 
 <hr>
