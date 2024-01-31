@@ -1,3 +1,5 @@
+<div style="display: flex; justify-content: center; align-items: center; flex-direction: column;">
+
 <h2 align="center"> About me </h2>
 
 <br> 
@@ -10,7 +12,8 @@ Hello, my name is Guilherme! Welcome to my profile on GitHub 👋, student in th
 
 <br> 
 
-<div style="display: flex; justify-content: center; align-items: center; text-align: center;"> <br>
+ <br>
+ 
   <img align="center" alt="Gui-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Gui-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Gui-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -18,9 +21,7 @@ Hello, my name is Guilherme! Welcome to my profile on GitHub 👋, student in th
   <img align="center" alt="Gui-JAVA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"> 
   <img align="center" alt="Gui-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
 
-    
 <hr>
-
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guiKD&layout=compact&langs_count=7&theme=radical" width="400"/> 
 </div>
