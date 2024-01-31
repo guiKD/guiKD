@@ -21,7 +21,7 @@ Hello, my name is Guilherme! Welcome to my profile on GitHub 👋, student in th
     
 <hr>
 
-<div style="text-align: center; justify-content: center; align-items: center;">
+<div style="text-align: center;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guiKD&layout=compact&langs_count=7&theme=radical" width="400"/> 
 </div>
 
