@@ -7,6 +7,6 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=guiKD&theme=radical&hide_border=false&include_all_commits=false&count_private=false&custom_width=400)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=guiKD&theme=radical&hide_border=false&custom_width=400)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=guiKD&theme=radical&hide_border=false&custom_width=100)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=guiKD&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact&custom_width=400)
 
