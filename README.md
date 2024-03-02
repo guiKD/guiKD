@@ -8,6 +8,6 @@
 # 📊 GitHub Stats:
 <div style="display: flex; justify-content: space-between;">
   <img src="https://github-readme-stats.vercel.app/api?username=guiKD&theme=radical&hide_border=false&include_all_commits=false&count_private=false&custom_width=400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guiKD&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact&custom_height=400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guiKD&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact&custom_width=400&langs_count=8" />
 </div>
 
