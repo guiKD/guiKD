@@ -1,4 +1,5 @@
-# Olá! Meu nome é Guilherme, sou estudante de Sistemas de Informação na FIAP | Hello! My name is Guilherme, I am an Information Systems student at FIAP
+Olá, sou Guilherme, sou estudante de Sistemas de Informação na FIAP | Hello, I'm Guilherme, I'm an Information Systems student at FIAP
+# My GitHub Stats
 
 <div align="center">
   <a href="https://github.com/guiKD">
