@@ -4,6 +4,6 @@
 
 📚-> Information Systems Student at FIAP
 
-💻-> HMTL, CSS, JavaScript, Bootstrap, Java, ABAP, ORACLE DATABASE
+💻-> HMTL & CSS | JavaScript | Bootstrap | Java | ABAP | ORACLE DATABASE
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff5252&height=120&section=footer"/>
