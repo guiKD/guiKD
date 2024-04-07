@@ -1,9 +1,9 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff5252&height=120&section=header"/>
 
-### Olá, seja bem vindo ao meu perfil!
+### Hello, welcome to my profile!
 
-📚-> Atualmente estou estudando ABAP
+📚-> Information Systems Student at FIAP
 
-💻-> Discord: guiKD
- 
+💻-> HMTL, CSS, JavaScript, Bootstrap, Java, ABAP, ORACLE DATABASE
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff5252&height=120&section=footer"/>
