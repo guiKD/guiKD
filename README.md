@@ -11,6 +11,6 @@
 </div>
   
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=guiKD&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=guiKD&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+<img height="140em" src="https://github-readme-stats.vercel.app/api?username=guiKD&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
  
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff5252&height=120&section=footer"/>
