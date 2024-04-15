@@ -7,6 +7,10 @@
 <br>
 
 📚-> Information Systems Student at FIAP
+
+<br>
+<br>
+
   
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=guiKD&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 <img height="140em" src="https://github-readme-stats.vercel.app/api?username=guiKD&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
