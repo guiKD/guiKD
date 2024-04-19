@@ -5,10 +5,6 @@
 ### Hello, welcome to my profile!
 
 <br>
-
-📚-> Information Systems Student at FIAP
-
-<br>
 <br>
 
   
