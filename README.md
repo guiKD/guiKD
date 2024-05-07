@@ -2,7 +2,13 @@
 
 ### 🧑‍💻 Hello, my name is Guilherme. Welcome to my GitHub.
 
+<br>
+<br>
+
 🎓 Information Systems - FIAP
+
+<br>
+<br>
 
 🖥️ Skills - Web Development | Java | Software Engineering | Computer networks | Database
 
