@@ -3,7 +3,6 @@
 ### 🧑‍💻 Hello, my name is Guilherme. Welcome to my GitHub.
 
 <br>
-<br>
 
 #### 🎓 Information Systems - FIAP
 
