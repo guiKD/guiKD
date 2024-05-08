@@ -6,7 +6,7 @@
 
 ### - 🎓 Information Systems - FIAP
 
-### - 🖥️ Skills - Web Development | Java | Software Engineering | Computer networks | Database
+### - 🖥️ Skills - Web Development | Java | Software Engineering | Computer Networking | DB
 
 <br>
 
