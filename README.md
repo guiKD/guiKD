@@ -4,8 +4,6 @@
 
  - 🎓 Information Systems - FIAP
 
- - 🖥️ Skills - Web Development | Java | Object-oriented programming with Java and Web | Software Engineering | Networking Fundamentals and Security | Data structure with Java | Database
-
 <br>
 
 <div align="center">  
